@@ -1,4 +1,4 @@
-[⭠ Volver al README.](../README.md)
+[⭠ Volver al README.](README.md)
 
 <div align="center">
 
@@ -15,7 +15,7 @@ Cada entrada documenta los cambios, correcciones y nuevas características incor
 
 Si buscas una descripción general del mod,
 imágenes e información,
-consulta el **[README](../README.md)**.
+consulta el **[README](README.md)**.
 Si te interesa conocer el proceso de desarrollo y la historia detrás del proyecto,
 puedes visitar el _**[PROXIMAMENTE]**_.
 
@@ -79,7 +79,7 @@ Primera versión estable de BubbleUp.
 
 ##
 
-[⭠ Volver al README.](../README.md)
+[⭠ Volver al README.](README.md)
 
 ---
 

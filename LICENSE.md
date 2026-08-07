@@ -9,7 +9,7 @@ El proyecto, sus recursos y su código permanecen bajo propiedad de **AlphaBits*
 
 ##
 
-[⭠ Volver al README.](../README.md)
+[⭠ Volver al README.](README.md)
 
 ---
 

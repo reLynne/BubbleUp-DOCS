@@ -56,7 +56,7 @@ Todos los derechos que no hayan sido concedidos expresamente en esta licencia pe
 
 Para cualquier uso no contemplado aquí, puedes solicitar autorización mediante los medios oficiales de contacto de BubbleUp.
 
----
+###
 
 [← Volver al README.](README.md)
 

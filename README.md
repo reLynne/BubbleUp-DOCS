@@ -7,7 +7,7 @@
 
 ---
 
-![Banner](docs/media/banner.png)
+![Banner](/media/banner.png)
 </div>
 
 ## 📖 ¿Qué es BubbleUp?
@@ -39,31 +39,31 @@ El sistema queda preparado para futuras ideas y nuevas formas de utilizar las bu
 
 ### Burbujas únicas
 
-![Bubbles](docs/media/bubbles.png)
+![Bubbles](/media/bubbles.png)
 
 ### Variedad de colores
 
-![Colors](docs/media/colors.png)
+![Colors](/media/colors.png)
 
 ####
 
-![Colors_2](docs/media/colors_2.png)
+![Colors_2](/media/colors_2.png)
 
 ### Frascos de burbujas
 
-![Jars](docs/media/jars.png)
+![Jars](/media/jars.png)
 
 ### La hermosa melodía y colores de prisma pintan el cielo
 
-![Prisma](docs/media/prisma.gif)
+![Prisma](/media/prisma.gif)
 
 ### ¿Tus aliados o los míos?
 
-![Prisma](docs/media/allies.gif)
+![Prisma](/media/allies.gif)
 
 ### Con el alma en la tierra
 
-![Soul anchor](docs/media/anchor.png)
+![Soul anchor](/media/anchor.png)
 
 
 ---
@@ -86,7 +86,7 @@ La primera versión estable del mod ya está disponible.
 
 Consulta los siguientes documentos para conocer más sobre BubbleUp:
 
-- 📋 [CHANGELOG](docs/CHANGELOG.md)  
+- 📋 [CHANGELOG](CHANGELOG.md)  
   Historial de versiones, cambios y contenido añadido al mod.
 
 - 📖 _**[PROXIMAMENTE]**_  
@@ -147,7 +147,7 @@ BubbleUp está disponible de forma gratuita para jugar y utilizar como mod de Mi
 
 El código fuente del proyecto no es público y no está permitido modificar, redistribuir extraer o reutilizar el código sin autorización.
 
-Consulta el archivo [LICENSE](docs/LICENSE.md) para conocer los términos completos de uso.
+Consulta el archivo [LICENSE](LICENSE.md) para conocer los términos completos de uso.
 
 ###
 
